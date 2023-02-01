@@ -4,19 +4,9 @@ const dbOptions = {
    // host: '192.168.0.215',
     host: 'localhost',
     port: 26350, 
-    database: 'D:\\Arquivos\\Fx Sistemas\\Backup\\Temar\\CONTABIL_NOVO.FDB',
-                
+    database: 'D:\\Arquivos\\Fx Sistemas\\Backup\\Temar\\CONTABIL_NOVO.FDB',             
 
-  /* ESPACO DECOR*/
-  //host: '187.95.11.85',
-  // database: 'C:\\Fx Sistemas\\Banco\\Contabil.FDB',  
-  //port: 3050, 
-
-  /* Interno Suportes Clientes*/  
- /* host: 'firebird.fxsistemas.dev',
-  port: 33050,
-  database: '/FXSistemas/Interno/Banco/PROSIS.FDB', 
-*/
+ 
     user: 'SYSDBA',
     password: 'masterkey',
     lowercase_keys: false, // set to true to lowercase keys
